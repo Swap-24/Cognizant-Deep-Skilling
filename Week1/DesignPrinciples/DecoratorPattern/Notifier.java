@@ -1,0 +1,4 @@
+
+interface Notifier {
+    void send();
+}
